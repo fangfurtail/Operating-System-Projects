@@ -1,0 +1,43 @@
+
+ Started monitoring folder: C:\Users\Kaan\Desktop\OS2
+ Started monitoring folder: C:\Users\Kaan\Desktop\OS2
+[17:53:03]  File Deleted → kaan.txt
+[17:53:05]  File Deleted → fileToDelete.txt
+[17:53:23]  File Created → New Text Document.txt
+[17:53:44]  Renamed (Old Name) → New Text Document.txt
+[17:54:01]  File Modified → ImportandDocument.txt
+[17:54:57]  File Deleted → ImportandDocument.txt
+[17:55:33]  File Created → New Microsoft Word Document.docx
+[17:55:35]  Renamed (Old Name) → New Microsoft Word Document.docx
+[17:55:37]  File Created → ~$aaa.docx
+[17:55:37]  File Modified → ~$aaa.docx
+[17:55:39]  File Created → ~WRD2568.tmp
+[17:55:39]  File Modified → ~WRD2568.tmp
+[17:55:39]  File Modified → ~WRD2568.tmp
+[17:55:39]  File Modified → ~WRD2568.tmp
+[17:55:39]  Renamed (Old Name) → aaa.docx
+[17:55:39]  Renamed (Old Name) → ~WRD2568.tmp
+[17:55:39]  File Modified → aaa.docx
+[17:55:39]  File Deleted → ~WRL2575.tmp
+[17:55:39]  File Deleted → ~$aaa.docx
+[18:07:23]  File Created → ~WRD2482.tmp
+[18:07:23]  File Modified → ~WRD2482.tmp
+[18:07:23]  File Modified → ~WRD2482.tmp
+[18:07:23]  File Modified → ~WRD2482.tmp
+[18:07:23]  Renamed (Old Name) → OS2.docx
+[18:07:23]  Renamed (Old Name) → ~WRD2482.tmp
+[18:07:23]  File Modified → OS2.docx
+[18:15:16]  File Created → ~WRD1909.tmp
+[18:15:16]  File Modified → ~WRD1909.tmp
+[18:15:16]  File Modified → ~WRD1909.tmp
+[18:15:16]  File Modified → ~WRD1909.tmp
+[18:15:16]  Renamed (Old Name) → OS2.docx
+[18:15:16]  Renamed (Old Name) → ~WRD1909.tmp
+[18:15:16]  File Modified → OS2.docx
+[18:15:16]  File Deleted → ~WRL1956.tmp
+[18:15:39]  File Deleted → ~WRL2522.tmp
+[18:15:39]  File Deleted → ~$OS2.docx
+[18:15:41]  File Deleted → OS2.docx
+[18:16:11]  File Deleted → aaa.docx
+[18:16:17]  File Created → OS2.c
+[18:16:17]  File Created → OS2.docx
